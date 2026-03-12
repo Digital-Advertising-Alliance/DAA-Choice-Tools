@@ -16,7 +16,7 @@ TokenChoices supports two consumer choice mechanisms:
 
 These mechanisms operate using tokenized identifiers such as hashed email addresses or hashed phone numbers.
 
-TokenChoices complements the Digital Advertising Alliance’s broader consumer choice framework, which includes WebChoices (for browser cookies) and AppChoices (for mobile advertising identifiers).
+TokenChoices complements the Digital Advertising Alliance’s broader consumer choice framework, which includes [WebChoices](/WebChoices/) (for browser cookies) and [AppChoices](/AppChoices/) (for mobile advertising identifiers).
 
 ### Purpose
 Provides consumers with a destination to:
