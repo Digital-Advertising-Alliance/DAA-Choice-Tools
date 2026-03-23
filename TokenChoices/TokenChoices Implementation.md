@@ -18,7 +18,6 @@ The DAA's TokenChoices tool provides participating companies with a mechanism to
 
 [Frequently Asked Questions](#frequently-asked-questions)
 
-[Relationship to Other DAA Choice Tools](#relationship-to-other-daa-choice-tools)
 
 ## Introduction
 
@@ -353,15 +352,6 @@ Companies may also monitor submission volumes at their endpoints to detect poten
 Yes. If a consumer revisits the TokenChoices interface and submits a new request, the most recent request may override previous submissions.
 
 
-## Relationship to Other DAA Choice Tools
-
-TokenChoices complements the DAA's existing consumer choice mechanisms:
-
-| **Tool** | **Primary Function** | **Identifier Type** |
-|----|----|----|
-| WebChoices | Browser-based opt-out tool (also generates the AdChoices Signal) | Browser cookies |
-| AppChoices | Mobile app-based opt-out tool | Mobile advertising IDs |
-| TokenChoices | Token-based opt-out and category preference tool | Tokenized identifiers (hashed email or phone) |
 | Protect My Choices | Choice persistence mechanism that helps maintain consumer preferences | Multiple environments |
 
 Together these tools provide consumers with transparency and control across different identifier environments used in digital advertising.
