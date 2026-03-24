@@ -352,7 +352,4 @@ Companies may also monitor submission volumes at their endpoints to detect poten
 
 Yes. If a consumer revisits the TokenChoices interface and submits a new request, the most recent request may override previous submissions.
 
-
-| Protect My Choices | Choice persistence mechanism that helps maintain consumer preferences | Multiple environments |
-
 Together these tools provide consumers with transparency and control across different identifier environments used in digital advertising.
