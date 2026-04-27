@@ -27,7 +27,7 @@ Below you will find a checklist of what needs to be accomplished in order to suc
 3. Determine which ID(s) you use to track devices. For more guidance, please review the [Supported IDs](#supported-ids) section.
 4. Create the opt-out URL to receive ID(s) identified above. For Android and for iOS.
 5. Provide the opt-out URLs with the ID order to DAA.
-6. 6.	DAA will schedule a testing time frame for your URLs to ensure you are receiving the opt-out request correctly. During this time, there will be more back-and-forth communication between the DAA and your company to ensure that, when the opt-out request is sent, you receive the correct ID(s).
+6. DAA will schedule a testing time frame for your URLs to ensure you are receiving the opt-out request correctly. During this time, there will be more back-and-forth communication between the DAA and your company to ensure that, when the opt-out request is sent, you receive the correct ID(s).
 7. Integration completed. If you receive the ID(s) correctly, then integration is complete. If you do not receive ID(s) correctly, we will have to work through the issue(s).
 
 
